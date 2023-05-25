@@ -1,2 +1,2 @@
 # GitNote
-这是一个Git的笔记
+尚硅谷Git笔记。
